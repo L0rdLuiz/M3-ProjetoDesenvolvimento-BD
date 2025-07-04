@@ -3,6 +3,19 @@
 Este projeto foi desenvolvido como parte da disciplina de Banco de Dados (M3).  
 Consiste em um sistema backend com Node.js e MySQL que realiza operações CRUD para controle de clientes, fornecedores, produtos e vendas.
 
+GET
+
+http://localhost:3000/clientes
+http://localhost:3000/fornecedores
+http://localhost:3000/produtos
+http://localhost:3000/vendas
+
+POST
+
+
+PUT
+DELETE
+
 ---
 
 ## ⚙️ Tecnologias Utilizadas
